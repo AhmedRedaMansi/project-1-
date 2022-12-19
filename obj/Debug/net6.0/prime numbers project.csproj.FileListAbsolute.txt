@@ -1,0 +1,15 @@
+C:\Users\AHMED\Music\projects\prime numbers project\prime numbers project\bin\Debug\net6.0\prime numbers project.exe
+C:\Users\AHMED\Music\projects\prime numbers project\prime numbers project\bin\Debug\net6.0\prime numbers project.deps.json
+C:\Users\AHMED\Music\projects\prime numbers project\prime numbers project\bin\Debug\net6.0\prime numbers project.runtimeconfig.json
+C:\Users\AHMED\Music\projects\prime numbers project\prime numbers project\bin\Debug\net6.0\prime numbers project.dll
+C:\Users\AHMED\Music\projects\prime numbers project\prime numbers project\bin\Debug\net6.0\prime numbers project.pdb
+C:\Users\AHMED\Music\projects\prime numbers project\prime numbers project\obj\Debug\net6.0\prime numbers project.csproj.AssemblyReference.cache
+C:\Users\AHMED\Music\projects\prime numbers project\prime numbers project\obj\Debug\net6.0\prime numbers project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHMED\Music\projects\prime numbers project\prime numbers project\obj\Debug\net6.0\prime numbers project.AssemblyInfoInputs.cache
+C:\Users\AHMED\Music\projects\prime numbers project\prime numbers project\obj\Debug\net6.0\prime numbers project.AssemblyInfo.cs
+C:\Users\AHMED\Music\projects\prime numbers project\prime numbers project\obj\Debug\net6.0\prime numbers project.csproj.CoreCompileInputs.cache
+C:\Users\AHMED\Music\projects\prime numbers project\prime numbers project\obj\Debug\net6.0\prime numbers project.dll
+C:\Users\AHMED\Music\projects\prime numbers project\prime numbers project\obj\Debug\net6.0\refint\prime numbers project.dll
+C:\Users\AHMED\Music\projects\prime numbers project\prime numbers project\obj\Debug\net6.0\prime numbers project.pdb
+C:\Users\AHMED\Music\projects\prime numbers project\prime numbers project\obj\Debug\net6.0\prime numbers project.genruntimeconfig.cache
+C:\Users\AHMED\Music\projects\prime numbers project\prime numbers project\obj\Debug\net6.0\ref\prime numbers project.dll
